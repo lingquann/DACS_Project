@@ -52,5 +52,17 @@ namespace QLyPhongTro
             var f = new FormLoaiPhong();
             AddForm(f);
         }
+
+        private void trangChuToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            var f = new FormLoaiPhong();
+            AddForm(f);
+        }
+
+        private void phongToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            var f = new FormPhong();
+            AddForm(f);
+        }
     }
 }

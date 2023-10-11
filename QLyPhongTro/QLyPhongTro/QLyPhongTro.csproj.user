@@ -4,6 +4,12 @@
     <Compile Update="FormCon\FormLoaiPhong.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="FormCon\FormPhong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormCon\FormThaoTacPhong.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="FormCon\FormWellcome.cs">
       <SubType>Form</SubType>
     </Compile>

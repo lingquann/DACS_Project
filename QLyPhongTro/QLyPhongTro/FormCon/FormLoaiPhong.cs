@@ -163,6 +163,32 @@ namespace QLyPhongTro.FormCon
                 maLoaiPhong = 0;
             }
         }
-    
+
+        private void btnXoa_Click(object sender, EventArgs e)
+        {
+            if (maLoaiPhong == 0)
+            {
+                MessageBox.Show("Vui lòng chọn phòng cần xóa!", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
+            if (MessageBox.Show("Bạn có chắc muốn xóa không", "Xác nhận", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
+            {
+                var lstPara = new List<CustomParameter>()
+                {
+                    new CustomParameter()
+                    {
+                        key = "@idLoaiPhong",
+                        value = maLoaiPhong.ToString()
+                    }
+                };
+                var rs = db.ExeCute("xoaLoaiPhong", lstPara);
+                if (rs == 1)
+                {
+                    MessageBox.Show("Xóa loại phòng thành công", "Successfully!!", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    LoadDsLoaiPhong();
+                    maLoaiPhong = 0; //reset ma loai phong sau khi xoa
+                }
+            }
+        }
     }
 }

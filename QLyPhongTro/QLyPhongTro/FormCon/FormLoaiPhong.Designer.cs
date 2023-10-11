@@ -36,7 +36,7 @@
             txtDonGia = new TextBox();
             btnThem = new Button();
             btnSua = new Button();
-            btnHuy = new Button();
+            btnXoa = new Button();
             ((System.ComponentModel.ISupportInitialize)dgvDmLoaiPhong).BeginInit();
             SuspendLayout();
             // 
@@ -47,9 +47,9 @@
             label1.ForeColor = Color.DarkSlateGray;
             label1.Location = new Point(22, 24);
             label1.Name = "label1";
-            label1.Size = new Size(291, 28);
+            label1.Size = new Size(344, 28);
             label1.TabIndex = 0;
-            label1.Text = "Quản lý danh mục loại phòng";
+            label1.Text = "QUẢN LÝ DANH MỤC LOẠI PHÒNG";
             // 
             // dgvDmLoaiPhong
             // 
@@ -102,6 +102,7 @@
             txtDonGia.Name = "txtDonGia";
             txtDonGia.Size = new Size(161, 27);
             txtDonGia.TabIndex = 3;
+            txtDonGia.Text = "0";
             txtDonGia.TextAlign = HorizontalAlignment.Center;
             txtDonGia.TextChanged += txtDonGia_TextChanged;
             txtDonGia.KeyPress += txtDonGia_KeyPress;
@@ -126,14 +127,15 @@
             btnSua.UseVisualStyleBackColor = true;
             btnSua.Click += btnSua_Click;
             // 
-            // btnHuy
+            // btnXoa
             // 
-            btnHuy.Location = new Point(890, 64);
-            btnHuy.Name = "btnHuy";
-            btnHuy.Size = new Size(94, 29);
-            btnHuy.TabIndex = 4;
-            btnHuy.Text = "Hủy";
-            btnHuy.UseVisualStyleBackColor = true;
+            btnXoa.Location = new Point(890, 64);
+            btnXoa.Name = "btnXoa";
+            btnXoa.Size = new Size(94, 29);
+            btnXoa.TabIndex = 4;
+            btnXoa.Text = "Xóa";
+            btnXoa.UseVisualStyleBackColor = true;
+            btnXoa.Click += btnXoa_Click;
             // 
             // FormLoaiPhong
             // 
@@ -142,7 +144,7 @@
             BackColor = Color.FromArgb(198, 226, 255);
             ClientSize = new Size(1087, 463);
             Controls.Add(btnSua);
-            Controls.Add(btnHuy);
+            Controls.Add(btnXoa);
             Controls.Add(btnThem);
             Controls.Add(txtDonGia);
             Controls.Add(txtTenLoaiPhong);
@@ -168,6 +170,6 @@
         private TextBox txtDonGia;
         private Button btnThem;
         private Button btnSua;
-        private Button btnHuy;
+        private Button btnXoa;
     }
 }
