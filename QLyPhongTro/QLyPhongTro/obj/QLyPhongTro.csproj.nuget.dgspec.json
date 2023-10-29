@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Testgit\\DACS_Project\\QLyPhongTro\\QLyPhongTro\\QLyPhongTro.csproj": {}
+    "D:\\TEST\\DACS_Project\\QLyPhongTro\\QLyPhongTro\\QLyPhongTro.csproj": {}
   },
   "projects": {
-    "D:\\Testgit\\DACS_Project\\QLyPhongTro\\QLyPhongTro\\QLyPhongTro.csproj": {
+    "D:\\TEST\\DACS_Project\\QLyPhongTro\\QLyPhongTro\\QLyPhongTro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Testgit\\DACS_Project\\QLyPhongTro\\QLyPhongTro\\QLyPhongTro.csproj",
+        "projectUniqueName": "D:\\TEST\\DACS_Project\\QLyPhongTro\\QLyPhongTro\\QLyPhongTro.csproj",
         "projectName": "QLyPhongTro",
-        "projectPath": "D:\\Testgit\\DACS_Project\\QLyPhongTro\\QLyPhongTro\\QLyPhongTro.csproj",
+        "projectPath": "D:\\TEST\\DACS_Project\\QLyPhongTro\\QLyPhongTro\\QLyPhongTro.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "D:\\Testgit\\DACS_Project\\QLyPhongTro\\QLyPhongTro\\obj\\",
+        "outputPath": "D:\\TEST\\DACS_Project\\QLyPhongTro\\QLyPhongTro\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",

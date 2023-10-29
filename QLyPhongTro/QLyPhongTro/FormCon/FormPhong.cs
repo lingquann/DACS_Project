@@ -12,6 +12,7 @@ namespace QLyPhongTro.FormCon
 {
     public partial class FormPhong : Form
     {
+        private Database db;
         public FormPhong()
         {
             InitializeComponent();
@@ -19,7 +20,33 @@ namespace QLyPhongTro.FormCon
 
         private void btnThem_Click(object sender, EventArgs e)
         {
-            new FormThaoTacPhong().ShowDialog();
+            new FormThaoTacPhong(true).ShowDialog();
+        }
+
+        private void FormPhong_Load(object sender, EventArgs e)
+        {
+            loadDsPhong();
+        }
+        private void loadDsPhong()
+        {
+            db = new Database();
+            var tinKiem = txtTimKiem.Text.Trim();
+            var lstPara = new List<CustomParameter>()
+            {
+                new CustomParameter()
+                {
+                    key = "@timKiem",
+                    value = tinKiem
+                }
+            };
+            var dt = db.SelectData("loadDsPhong", lstPara);
+
+            dgvPhong.DataSource = dt;
+        }
+
+        private void btnCapNhat_Click(object sender, EventArgs e)
+        {
+            new FormThaoTacPhong(false).ShowDialog();
         }
     }
 }

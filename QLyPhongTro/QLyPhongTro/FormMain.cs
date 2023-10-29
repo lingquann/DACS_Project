@@ -55,7 +55,7 @@ namespace QLyPhongTro
 
         private void trangChuToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            var f = new FormLoaiPhong();
+            var f = new FormWellcome();
             AddForm(f);
         }
 

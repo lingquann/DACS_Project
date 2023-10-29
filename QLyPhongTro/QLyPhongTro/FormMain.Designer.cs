@@ -33,7 +33,6 @@
             panel2 = new Panel();
             panel3 = new Panel();
             grbContent = new GroupBox();
-            menuStrip1 = new MenuStrip();
             trangChuToolStripMenuItem = new ToolStripMenuItem();
             danhMụcToolStripMenuItem = new ToolStripMenuItem();
             loaiPhongToolStripMenuItem = new ToolStripMenuItem();
@@ -56,6 +55,7 @@
             phiênBảnToolStripMenuItem = new ToolStripMenuItem();
             bảnQuyềnToolStripMenuItem = new ToolStripMenuItem();
             liênHệToolStripMenuItem = new ToolStripMenuItem();
+            menuStrip1 = new MenuStrip();
             menuStrip1.SuspendLayout();
             SuspendLayout();
             // 
@@ -93,16 +93,6 @@
             grbContent.TabIndex = 1;
             grbContent.TabStop = false;
             // 
-            // menuStrip1
-            // 
-            menuStrip1.ImageScalingSize = new Size(20, 20);
-            menuStrip1.Items.AddRange(new ToolStripItem[] { trangChuToolStripMenuItem, danhMụcToolStripMenuItem, tácVụToolStripMenuItem, thốngKêToolStripMenuItem, hệThốngToolStripMenuItem, thôngTinToolStripMenuItem });
-            menuStrip1.Location = new Point(10, 0);
-            menuStrip1.Name = "menuStrip1";
-            menuStrip1.Size = new Size(1082, 28);
-            menuStrip1.TabIndex = 0;
-            menuStrip1.Text = "menuStrip1";
-            // 
             // trangChuToolStripMenuItem
             // 
             trangChuToolStripMenuItem.Name = "trangChuToolStripMenuItem";
@@ -120,21 +110,21 @@
             // loaiPhongToolStripMenuItem
             // 
             loaiPhongToolStripMenuItem.Name = "loaiPhongToolStripMenuItem";
-            loaiPhongToolStripMenuItem.Size = new Size(224, 26);
+            loaiPhongToolStripMenuItem.Size = new Size(167, 26);
             loaiPhongToolStripMenuItem.Text = "Loại phòng";
             loaiPhongToolStripMenuItem.Click += loaiPhongToolStripMenuItem_Click;
             // 
             // phongToolStripMenuItem
             // 
             phongToolStripMenuItem.Name = "phongToolStripMenuItem";
-            phongToolStripMenuItem.Size = new Size(224, 26);
+            phongToolStripMenuItem.Size = new Size(167, 26);
             phongToolStripMenuItem.Text = "Phòng";
             phongToolStripMenuItem.Click += phongToolStripMenuItem_Click;
             // 
             // dichVuToolStripMenuItem
             // 
             dichVuToolStripMenuItem.Name = "dichVuToolStripMenuItem";
-            dichVuToolStripMenuItem.Size = new Size(224, 26);
+            dichVuToolStripMenuItem.Size = new Size(167, 26);
             dichVuToolStripMenuItem.Text = "Dịch vụ";
             // 
             // tácVụToolStripMenuItem
@@ -243,6 +233,16 @@
             liênHệToolStripMenuItem.Size = new Size(161, 26);
             liênHệToolStripMenuItem.Text = "Liên hệ";
             // 
+            // menuStrip1
+            // 
+            menuStrip1.ImageScalingSize = new Size(20, 20);
+            menuStrip1.Items.AddRange(new ToolStripItem[] { trangChuToolStripMenuItem, danhMụcToolStripMenuItem, tácVụToolStripMenuItem, thốngKêToolStripMenuItem, hệThốngToolStripMenuItem, thôngTinToolStripMenuItem });
+            menuStrip1.Location = new Point(10, 0);
+            menuStrip1.Name = "menuStrip1";
+            menuStrip1.Size = new Size(1082, 28);
+            menuStrip1.TabIndex = 0;
+            menuStrip1.Text = "menuStrip1";
+            // 
             // FormMain
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
@@ -274,11 +274,7 @@
         private Panel panel2;
         private Panel panel3;
         private GroupBox grbContent;
-        private MenuStrip menuStrip1;
-        private ToolStripMenuItem hệThốngToolStripMenuItem;
-        private ToolStripMenuItem đổiMậtKhẩuToolStripMenuItem;
-        private ToolStripMenuItem khóaMànHìnhToolStripMenuItem;
-        private ToolStripMenuItem thoátToolStripMenuItem;
+        private ToolStripMenuItem trangChuToolStripMenuItem;
         private ToolStripMenuItem danhMụcToolStripMenuItem;
         private ToolStripMenuItem loaiPhongToolStripMenuItem;
         private ToolStripMenuItem phongToolStripMenuItem;
@@ -292,10 +288,14 @@
         private ToolStripMenuItem tiềnĐiệnToolStripMenuItem;
         private ToolStripMenuItem tiềnNướcToolStripMenuItem;
         private ToolStripMenuItem dịchVụToolStripMenuItem1;
+        private ToolStripMenuItem hệThốngToolStripMenuItem;
+        private ToolStripMenuItem đổiMậtKhẩuToolStripMenuItem;
+        private ToolStripMenuItem khóaMànHìnhToolStripMenuItem;
+        private ToolStripMenuItem thoátToolStripMenuItem;
         private ToolStripMenuItem thôngTinToolStripMenuItem;
         private ToolStripMenuItem phiênBảnToolStripMenuItem;
         private ToolStripMenuItem bảnQuyềnToolStripMenuItem;
         private ToolStripMenuItem liênHệToolStripMenuItem;
-        private ToolStripMenuItem trangChuToolStripMenuItem;
+        private MenuStrip menuStrip1;
     }
 }

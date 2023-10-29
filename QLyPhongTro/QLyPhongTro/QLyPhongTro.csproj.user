@@ -4,6 +4,9 @@
     <Compile Update="FormCon\FormLoaiPhong.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="FormCon\FormNav.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="FormCon\FormPhong.cs">
       <SubType>Form</SubType>
     </Compile>

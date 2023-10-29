@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vWyvNdOnyOd0xesJVpu6aqFUaGG7EGDHZHO+ArEfKk9o7B5XjaiJgE+9QBwRQFloXCpfUIFc1h1EfVsX+4sfiA==",
+  "dgSpecHash": "YKvhXOVT2jVqQAOeAJJsIzHX2SfqswujfIwnijBdc0WheaiZvcKYFDh7NFeTnylpinrJm0Ftbf1sodZSVoOChA==",
   "success": true,
-  "projectFilePath": "D:\\Testgit\\DACS_Project\\QLyPhongTro\\QLyPhongTro\\QLyPhongTro.csproj",
+  "projectFilePath": "D:\\TEST\\DACS_Project\\QLyPhongTro\\QLyPhongTro\\QLyPhongTro.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ADMIN\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

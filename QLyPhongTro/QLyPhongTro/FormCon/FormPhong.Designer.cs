@@ -40,19 +40,20 @@
             // dgvPhong
             // 
             dgvPhong.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
+            dgvPhong.BackgroundColor = Color.White;
             dgvPhong.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dgvPhong.Location = new Point(-1, 197);
+            dgvPhong.Location = new Point(2, 164);
             dgvPhong.Name = "dgvPhong";
             dgvPhong.RowHeadersWidth = 51;
             dgvPhong.RowTemplate.Height = 29;
-            dgvPhong.Size = new Size(1104, 328);
+            dgvPhong.Size = new Size(1076, 391);
             dgvPhong.TabIndex = 1;
             // 
             // btnTimKiem
             // 
             btnTimKiem.Anchor = AnchorStyles.Top | AnchorStyles.Right;
             btnTimKiem.BackColor = Color.FromArgb(198, 226, 255);
-            btnTimKiem.Location = new Point(813, 31);
+            btnTimKiem.Location = new Point(788, 31);
             btnTimKiem.Name = "btnTimKiem";
             btnTimKiem.Size = new Size(94, 29);
             btnTimKiem.TabIndex = 9;
@@ -62,7 +63,7 @@
             // txtTimKiem
             // 
             txtTimKiem.Anchor = AnchorStyles.Top | AnchorStyles.Right;
-            txtTimKiem.Location = new Point(536, 31);
+            txtTimKiem.Location = new Point(511, 31);
             txtTimKiem.Name = "txtTimKiem";
             txtTimKiem.Size = new Size(261, 27);
             txtTimKiem.TabIndex = 8;
@@ -70,11 +71,11 @@
             // label1
             // 
             label1.AutoSize = true;
-            label1.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point);
+            label1.Font = new Font("Segoe UI Black", 12F, FontStyle.Bold, GraphicsUnit.Point);
             label1.ForeColor = Color.DarkSlateGray;
             label1.Location = new Point(29, 27);
             label1.Name = "label1";
-            label1.Size = new Size(293, 28);
+            label1.Size = new Size(306, 28);
             label1.TabIndex = 10;
             label1.Text = "QUẢN LÝ DANH MỤC PHÒNG";
             // 
@@ -82,18 +83,19 @@
             // 
             btnCapNhat.Anchor = AnchorStyles.Top | AnchorStyles.Right;
             btnCapNhat.BackColor = Color.FromArgb(198, 226, 255);
-            btnCapNhat.Location = new Point(933, 140);
+            btnCapNhat.Location = new Point(888, 107);
             btnCapNhat.Name = "btnCapNhat";
             btnCapNhat.Size = new Size(94, 29);
             btnCapNhat.TabIndex = 9;
             btnCapNhat.Text = "Cập nhật";
             btnCapNhat.UseVisualStyleBackColor = false;
+            btnCapNhat.Click += btnCapNhat_Click;
             // 
             // btnThem
             // 
             btnThem.Anchor = AnchorStyles.Top | AnchorStyles.Right;
             btnThem.BackColor = Color.FromArgb(198, 226, 255);
-            btnThem.Location = new Point(833, 140);
+            btnThem.Location = new Point(788, 107);
             btnThem.Name = "btnThem";
             btnThem.Size = new Size(94, 29);
             btnThem.TabIndex = 9;
@@ -106,7 +108,7 @@
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.FromArgb(198, 226, 255);
-            ClientSize = new Size(1103, 525);
+            ClientSize = new Size(1078, 555);
             Controls.Add(label1);
             Controls.Add(btnThem);
             Controls.Add(btnCapNhat);
@@ -115,6 +117,7 @@
             Controls.Add(dgvPhong);
             Name = "FormPhong";
             Text = "FormPhong";
+            Load += FormPhong_Load;
             ((System.ComponentModel.ISupportInitialize)dgvPhong).EndInit();
             ResumeLayout(false);
             PerformLayout();
