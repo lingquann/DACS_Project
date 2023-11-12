@@ -1,0 +1,134 @@
+D:\WS\CSharp\QLPhongTro\QLPhongTro\bin\Debug\QLPhongTro.exe.config
+D:\WS\CSharp\QLPhongTro\QLPhongTro\bin\Debug\QLPhongTro.exe
+D:\WS\CSharp\QLPhongTro\QLPhongTro\bin\Debug\QLPhongTro.pdb
+D:\WS\CSharp\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.csprojResolveAssemblyReference.cache
+D:\WS\CSharp\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.frmMain.resources
+D:\WS\CSharp\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.Properties.Resources.resources
+D:\WS\CSharp\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.csproj.GenerateResource.Cache
+D:\WS\CSharp\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.exe
+D:\WS\CSharp\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.pdb
+D:\WS\CSharp\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.ChildForm.frmWelcome.resources
+D:\WS\CSharp\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.ChildForm.frmLoaiPhong.resources
+D:\WS\CSharp\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.ChildForm.frmPhong.resources
+D:\WS\CSharp\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.ChildForm.frmXuLyPhong.resources
+D:\Truong ReDo\WS\WF\QLPT\QLPhongTro\QLPhongTro\bin\Debug\QLPhongTro.exe.config
+D:\Truong ReDo\WS\WF\QLPT\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.exe
+D:\Truong ReDo\WS\WF\QLPT\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.pdb
+D:\Truong ReDo\WS\WF\QLPT\QLPhongTro\QLPhongTro\bin\Debug\QLPhongTro.exe
+D:\Truong ReDo\WS\WF\QLPT\QLPhongTro\QLPhongTro\bin\Debug\QLPhongTro.pdb
+D:\Truong ReDo\WS\WF\QLPT\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.csprojResolveAssemblyReference.cache
+D:\Truong ReDo\WS\WF\QLPT\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.ChildForm.frmLoaiPhong.resources
+D:\Truong ReDo\WS\WF\QLPT\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.ChildForm.frmPhong.resources
+D:\Truong ReDo\WS\WF\QLPT\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.ChildForm.frmWelcome.resources
+D:\Truong ReDo\WS\WF\QLPT\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.ChildForm.frmXuLyPhong.resources
+D:\Truong ReDo\WS\WF\QLPT\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.frmMain.resources
+D:\Truong ReDo\WS\WF\QLPT\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.Properties.Resources.resources
+D:\Truong ReDo\WS\WF\QLPT\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.csproj.GenerateResource.Cache
+D:\Truong ReDo\WS\WF\QLPT\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.ChildForm.frmDichVu.resources
+E:\WS\CSharp\QLPhongTro\QLPhongTro\bin\Debug\QLPhongTro.exe.config
+E:\WS\CSharp\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.exe
+E:\WS\CSharp\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.pdb
+E:\WS\CSharp\QLPhongTro\QLPhongTro\bin\Debug\QLPhongTro.exe
+E:\WS\CSharp\QLPhongTro\QLPhongTro\bin\Debug\QLPhongTro.pdb
+E:\WS\CSharp\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.csprojResolveAssemblyReference.cache
+E:\WS\CSharp\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.ChildForm.frmDichVu.resources
+E:\WS\CSharp\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.ChildForm.frmLoaiPhong.resources
+E:\WS\CSharp\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.ChildForm.frmPhong.resources
+E:\WS\CSharp\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.ChildForm.frmWelcome.resources
+E:\WS\CSharp\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.ChildForm.frmXuLyPhong.resources
+E:\WS\CSharp\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.frmMain.resources
+E:\WS\CSharp\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.Properties.Resources.resources
+E:\WS\CSharp\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.csproj.GenerateResource.Cache
+E:\WS\CSharp\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.ChildForm.frmThuePhong.resources
+E:\WS\CSharp\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.ChildForm.frmThue.resources
+E:\WS\CSharp\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.ChildForm.frmKH.resources
+E:\WS\CSharp\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.ChildForm.frmThanhToan.resources
+E:\Truong ReDo\WS\WF\QLPT\QLPhongTro\bin\Debug\QLPhongTro.exe.config
+E:\Truong ReDo\WS\WF\QLPT\QLPhongTro\bin\Debug\QLPhongTro.exe
+E:\Truong ReDo\WS\WF\QLPT\QLPhongTro\bin\Debug\QLPhongTro.pdb
+E:\Truong ReDo\WS\WF\QLPT\QLPhongTro\obj\Debug\QLPhongTro.csprojResolveAssemblyReference.cache
+E:\Truong ReDo\WS\WF\QLPT\QLPhongTro\obj\Debug\QLPhongTro.ChildForm.frmDichVu.resources
+E:\Truong ReDo\WS\WF\QLPT\QLPhongTro\obj\Debug\QLPhongTro.ChildForm.frmKH.resources
+E:\Truong ReDo\WS\WF\QLPT\QLPhongTro\obj\Debug\QLPhongTro.ChildForm.frmLoaiPhong.resources
+E:\Truong ReDo\WS\WF\QLPT\QLPhongTro\obj\Debug\QLPhongTro.ChildForm.frmPhong.resources
+E:\Truong ReDo\WS\WF\QLPT\QLPhongTro\obj\Debug\QLPhongTro.ChildForm.frmThanhToan.resources
+E:\Truong ReDo\WS\WF\QLPT\QLPhongTro\obj\Debug\QLPhongTro.ChildForm.frmThue.resources
+E:\Truong ReDo\WS\WF\QLPT\QLPhongTro\obj\Debug\QLPhongTro.ChildForm.frmThuePhong.resources
+E:\Truong ReDo\WS\WF\QLPT\QLPhongTro\obj\Debug\QLPhongTro.ChildForm.frmWelcome.resources
+E:\Truong ReDo\WS\WF\QLPT\QLPhongTro\obj\Debug\QLPhongTro.ChildForm.frmXuLyPhong.resources
+E:\Truong ReDo\WS\WF\QLPT\QLPhongTro\obj\Debug\QLPhongTro.frmMain.resources
+E:\Truong ReDo\WS\WF\QLPT\QLPhongTro\obj\Debug\QLPhongTro.Properties.Resources.resources
+E:\Truong ReDo\WS\WF\QLPT\QLPhongTro\obj\Debug\QLPhongTro.csproj.GenerateResource.Cache
+E:\Truong ReDo\WS\WF\QLPT\QLPhongTro\obj\Debug\QLPhongTro.exe
+E:\Truong ReDo\WS\WF\QLPT\QLPhongTro\obj\Debug\QLPhongTro.pdb
+E:\Truong ReDo\WS\WF\QLPT\QLPhongTro\obj\Debug\QLPhongTro.ChildForm.frmChotDienNuoc.resources
+E:\WS\CSharp\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.ChildForm.frmChotDienNuoc.resources
+D:\dacs_test\QLPhongTro\QLPhongTro\bin\Debug\QLPhongTro.exe.config
+D:\dacs_test\QLPhongTro\QLPhongTro\bin\Debug\QLPhongTro.exe
+D:\dacs_test\QLPhongTro\QLPhongTro\bin\Debug\QLPhongTro.pdb
+D:\dacs_test\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.csproj.AssemblyReference.cache
+D:\dacs_test\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.ChildForm.frmChotDienNuoc.resources
+D:\dacs_test\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.ChildForm.frmDichVu.resources
+D:\dacs_test\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.ChildForm.frmKH.resources
+D:\dacs_test\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.ChildForm.frmLoaiPhong.resources
+D:\dacs_test\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.ChildForm.frmPhong.resources
+D:\dacs_test\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.ChildForm.frmThanhToan.resources
+D:\dacs_test\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.ChildForm.frmThue.resources
+D:\dacs_test\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.ChildForm.frmThuePhong.resources
+D:\dacs_test\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.ChildForm.frmWelcome.resources
+D:\dacs_test\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.ChildForm.frmXuLyPhong.resources
+D:\dacs_test\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.frmMain.resources
+D:\dacs_test\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.Properties.Resources.resources
+D:\dacs_test\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.csproj.GenerateResource.cache
+D:\dacs_test\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.csproj.CoreCompileInputs.cache
+D:\dacs_test\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.exe
+D:\dacs_test\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.pdb
+D:\demo_test\PTTKPM_N04_Project_10\QLPhongTro\QLPhongTro\bin\Debug\QLPhongTro.exe.config
+D:\demo_test\PTTKPM_N04_Project_10\QLPhongTro\QLPhongTro\bin\Debug\QLPhongTro.exe
+D:\demo_test\PTTKPM_N04_Project_10\QLPhongTro\QLPhongTro\bin\Debug\QLPhongTro.pdb
+D:\demo_test\PTTKPM_N04_Project_10\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.csproj.AssemblyReference.cache
+D:\demo_test\PTTKPM_N04_Project_10\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.csproj.SuggestedBindingRedirects.cache
+D:\demo_test\PTTKPM_N04_Project_10\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.ChildForm.frmChotDienNuoc.resources
+D:\demo_test\PTTKPM_N04_Project_10\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.ChildForm.frmDichVu.resources
+D:\demo_test\PTTKPM_N04_Project_10\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.ChildForm.frmKH.resources
+D:\demo_test\PTTKPM_N04_Project_10\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.ChildForm.frmLoaiPhong.resources
+D:\demo_test\PTTKPM_N04_Project_10\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.ChildForm.frmPhong.resources
+D:\demo_test\PTTKPM_N04_Project_10\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.ChildForm.frmThanhToan.resources
+D:\demo_test\PTTKPM_N04_Project_10\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.ChildForm.frmThue.resources
+D:\demo_test\PTTKPM_N04_Project_10\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.ChildForm.frmThuePhong.resources
+D:\demo_test\PTTKPM_N04_Project_10\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.ChildForm.frmWelcome.resources
+D:\demo_test\PTTKPM_N04_Project_10\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.ChildForm.frmXuLyPhong.resources
+D:\demo_test\PTTKPM_N04_Project_10\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.frmMain.resources
+D:\demo_test\PTTKPM_N04_Project_10\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.Properties.Resources.resources
+D:\demo_test\PTTKPM_N04_Project_10\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.csproj.GenerateResource.cache
+D:\demo_test\PTTKPM_N04_Project_10\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.csproj.CoreCompileInputs.cache
+D:\demo_test\PTTKPM_N04_Project_10\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.exe
+D:\demo_test\PTTKPM_N04_Project_10\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.pdb
+D:\demo_test\PTTKPM_N04_Project_10\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.ChildForm.frmPhongTrong.resources
+<<<<<<< HEAD
+C:\Users\ADMIN\Desktop\New folder\PTTKPM_N04_Project_10\QLPhongTro\QLPhongTro\bin\Debug\QLPhongTro.exe.config
+C:\Users\ADMIN\Desktop\New folder\PTTKPM_N04_Project_10\QLPhongTro\QLPhongTro\bin\Debug\QLPhongTro.exe
+C:\Users\ADMIN\Desktop\New folder\PTTKPM_N04_Project_10\QLPhongTro\QLPhongTro\bin\Debug\QLPhongTro.pdb
+C:\Users\ADMIN\Desktop\New folder\PTTKPM_N04_Project_10\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\New folder\PTTKPM_N04_Project_10\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.ChildForm.frmChotDienNuoc.resources
+C:\Users\ADMIN\Desktop\New folder\PTTKPM_N04_Project_10\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.ChildForm.frmDichVu.resources
+C:\Users\ADMIN\Desktop\New folder\PTTKPM_N04_Project_10\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.ChildForm.frmKH.resources
+C:\Users\ADMIN\Desktop\New folder\PTTKPM_N04_Project_10\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.ChildForm.frmLoaiPhong.resources
+C:\Users\ADMIN\Desktop\New folder\PTTKPM_N04_Project_10\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.ChildForm.frmPhong.resources
+C:\Users\ADMIN\Desktop\New folder\PTTKPM_N04_Project_10\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.ChildForm.frmPhongTrong.resources
+C:\Users\ADMIN\Desktop\New folder\PTTKPM_N04_Project_10\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.ChildForm.frmThanhToan.resources
+C:\Users\ADMIN\Desktop\New folder\PTTKPM_N04_Project_10\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.ChildForm.frmThue.resources
+C:\Users\ADMIN\Desktop\New folder\PTTKPM_N04_Project_10\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.ChildForm.frmThuePhong.resources
+C:\Users\ADMIN\Desktop\New folder\PTTKPM_N04_Project_10\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.ChildForm.frmWelcome.resources
+C:\Users\ADMIN\Desktop\New folder\PTTKPM_N04_Project_10\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.ChildForm.frmXuLyPhong.resources
+C:\Users\ADMIN\Desktop\New folder\PTTKPM_N04_Project_10\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.frmMain.resources
+C:\Users\ADMIN\Desktop\New folder\PTTKPM_N04_Project_10\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\New folder\PTTKPM_N04_Project_10\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\New folder\PTTKPM_N04_Project_10\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\New folder\PTTKPM_N04_Project_10\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.exe
+C:\Users\ADMIN\Desktop\New folder\PTTKPM_N04_Project_10\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.pdb
+C:\Users\ADMIN\Desktop\New folder\PTTKPM_N04_Project_10\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.ChildForm.frmTraPhong.resources
+=======
+D:\demo_test\PTTKPM_N04_Project_10\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.ChildForm.frmDangNhap.resources
+>>>>>>> 8ff9fa6f9861a5bbd39882a6c080e3e1bf0ef1d4
+C:\Users\ADMIN\Desktop\New folder\PTTKPM_N04_Project_10\QLPhongTro\QLPhongTro\obj\Debug\QLPhongTro.ChildForm.frmDangNhap.resources
